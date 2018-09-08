@@ -1,3 +1,3 @@
 # wyCloudMusic-crawler
 
-Crawling music-lyric from WangYiCloudM,the result will be saved to sqlite database.
+Crawling music-lyric from WangYiCloudMusic,the result will be preprocessed（word segment） then saved to sqlite database.
